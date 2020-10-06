@@ -4,6 +4,8 @@
     <img src="https://github.com/nehalist/gatsby-theme-nehalem/blob/master/theme/logo.png?raw=true">
 </p>
 
+**I am Hrithik Pawar, This is my portfolio website**
+
 > Check the [Demo](https://nehalem.netlify.com)!
 
 Starter for [`@nehalist/gatsby-theme-nehalem`](https://github.com/nehalist/gatsby-theme-nehalem).
@@ -45,7 +47,7 @@ the [GitHub repository](https://github.com/nehalist/gatsby-theme-nehalem).
 
 Happy to hear that! Feel free to star it on [GitHub](https://github.com/nehalist/gatsby-theme-nehalem)!
 
-## Author
+## Theme Author
 
 Developed by [nehalist.io](https://nehalist.io).
 
