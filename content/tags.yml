@@ -2,3 +2,8 @@
   color: "#007acc"
   icon: ./assets/images/Deep_Learning.png
   featured: true
+- name: Project
+  color: "#007acc"
+  icon: ./assets/images/project.png
+  featured: true
+
